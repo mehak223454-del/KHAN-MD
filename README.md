@@ -18,12 +18,12 @@
     0 0 36px #d896ff,
     0 0 48px #ab47bc;
   padding: 12px 0;
-"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Jawad TechX
+"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by ᥫ᭡∘𝐖ɔ̚ɭ͓ғ̮∘〆͎
 </div>
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-✨_KHAN--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
+  <img src="https://files.catbox.moe/p4xi2g.jpg/-✨_ᥫ᭡∘𝐖ɔ̚ɭ͓ғ̮∘〆͎_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
 </h1>
 </p>
 </p>
@@ -45,7 +45,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://raw.githubusercontent.com/JawadTechXD/https://https://files.catbox.moe/p4xi2g.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ***
@@ -89,7 +89,7 @@
 
 ## 🚀 Pairing Dashboard
 
-> Securely link your device using the official KHAN-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
+> Securely link your device using the official ᥫ᭡∘𝐖ɔ̚ɭ͓ғ̮∘〆͎ pairing portals below: if connection issues may require vpn activation to fix this issue.
 
  <div align="center">
 
@@ -106,7 +106,7 @@
 
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>ᥫ᭡∘𝐖ɔ̚ɭ͓ғ̮∘〆͎ Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
   <table>
@@ -168,7 +168,7 @@
 
 ---
 
-## KHAN-MD FEATURES
+## ᥫ᭡∘𝐖ɔ̚ɭ͓ғ̮∘〆͎ FEATURES
 
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Features&style=for-the-badge&url=https://api.example.com/khanmd&query=$.features_count&suffix=%20Active" alt="Features"/>
@@ -211,7 +211,7 @@
 ---
 
 <h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
-🧾 PROJECT STATS KHAN-MD
+🧾 PROJECT STATS ᥫ᭡∘𝐖ɔ̚ɭ͓ғ̮∘〆͎
 </h2>
 
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
@@ -227,10 +227,10 @@
 ## Credits ⚒️
 
 <p><strong>Creator:</strong><br>
-JawadTechXD (Official Creator)</p>
+ᥫ᭡∘𝐖ɔ̚ɭ͓ғ̮∘〆͎ (Official Creator)</p>
 
 <p><strong>Co-Developer:</strong><br>
-JawadYT36 ( Helper )</p>
+ᥫ᭡∘𝐖ɔ̚ɭ͓ғ̮∘〆͎ ( Helper )</p>
 
 ---
 
